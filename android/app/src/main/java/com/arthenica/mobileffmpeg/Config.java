@@ -119,6 +119,7 @@ public class Config {
                 System.loadLibrary("avformat");
                 System.loadLibrary("avfilter");
                 System.loadLibrary("avdevice");
+                System.loadLibrary("avutil");
             }
         }
 
